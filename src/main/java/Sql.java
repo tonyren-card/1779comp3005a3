@@ -1,5 +1,7 @@
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 public class Sql {
     public static void main(String[] args) {
@@ -9,11 +11,15 @@ public class Sql {
         try {
             Class.forName("org.postgresql.Driver");
             Connection connection = DriverManager.getConnection(url, user, pw);
-            if (connection != null) {
-                System.out.println("Connected to the database\n\n");
-            } else {
-                System.out.println("Failed to connect to the database");
+
+            Statement statement = connection.createStatement();
+            statement.executeQuery("SELECT * FROM Students");
+            ResultSet resultSet = statement.getResultSet();
+            while (resultSet.next()){
+                System.out.print(resultSet.getInt("student_id") + "\t");
+                System.out.println(resultSet.getString("first_name") + " " + resultSet.getString("last_name"));
             }
+
         }catch (Exception e){
             System.out.println(e);
         }
