@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb89f45b-aa3f-4df9-ae0d-a4f6946f2fcb" name="Changes" comment="Added queries in the main function">
+    <list default="true" id="eb89f45b-aa3f-4df9-ae0d-a4f6946f2fcb" name="Changes" comment="Made a getAllStudents() function (part 1a)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sql.java" afterDir="false" />
     </list>
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -70,7 +73,10 @@
       <option name="presentableId" value="Default" />
       <updated>1709671048677</updated>
       <workItem from="1709671049722" duration="507000" />
-      <workItem from="1709841423821" duration="2703000" />
+      <workItem from="1709841423821" duration="2885000" />
+      <workItem from="1709933831042" duration="932000" />
+      <workItem from="1709993679364" duration="21000" />
+      <workItem from="1710023862288" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="Added queries in the main function">
       <option name="closed" value="true" />
@@ -80,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709671480234</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Made a getAllStudents() function (part 1a)">
+      <option name="closed" value="true" />
+      <created>1709844199888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709844199888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added queries in the main function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added queries in the main function" />
+    <MESSAGE value="Made a getAllStudents() function (part 1a)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a getAllStudents() function (part 1a)" />
   </component>
 </project>
