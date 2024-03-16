@@ -1,5 +1,7 @@
 Antony Ren - 101151779 - COMP3005 A3
 
+Demo video: https://mediaspace.carleton.ca/media/Antony+Ren+-+COMP3005+A3Q1+demo/1_pesnk0kl
+
 Application type: Command line interface
 
 Language: Java (Intellij IDEA)
