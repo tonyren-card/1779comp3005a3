@@ -14,4 +14,5 @@ How to run program:
   7. To quit program, type 'q' (at the 'Select an option' page)
 
 Other notes:
+- In case the program can't run, if you're using Intellij IDEA, rebuild project (Build > Rebuild Project)
 - Program was created using MacBook Pro M1 Pro model
