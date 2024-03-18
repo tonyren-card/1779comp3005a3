@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb89f45b-aa3f-4df9-ae0d-a4f6946f2fcb" name="Changes" comment="addStudent(), updateStudentEmail(), and deleteStudent() functions created (part 1b-d)">
+    <list default="true" id="eb89f45b-aa3f-4df9-ae0d-a4f6946f2fcb" name="Changes" comment="Made a CLI for the program, modified some functions as well as commenting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Sql.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -77,7 +83,9 @@
       <workItem from="1709933831042" duration="932000" />
       <workItem from="1709993679364" duration="21000" />
       <workItem from="1710023862288" duration="4907000" />
-      <workItem from="1710339588338" duration="3240000" />
+      <workItem from="1710339588338" duration="4040000" />
+      <workItem from="1710615934875" duration="5096000" />
+      <workItem from="1710787300535" duration="1551000" />
     </task>
     <task id="LOCAL-00001" summary="Added queries in the main function">
       <option name="closed" value="true" />
@@ -103,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710028643535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made a CLI for the program, modified some functions as well as commenting">
+      <option name="closed" value="true" />
+      <created>1710343340793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710343340793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +129,7 @@
     <MESSAGE value="Added queries in the main function" />
     <MESSAGE value="Made a getAllStudents() function (part 1a)" />
     <MESSAGE value="addStudent(), updateStudentEmail(), and deleteStudent() functions created (part 1b-d)" />
-    <option name="LAST_COMMIT_MESSAGE" value="addStudent(), updateStudentEmail(), and deleteStudent() functions created (part 1b-d)" />
+    <MESSAGE value="Made a CLI for the program, modified some functions as well as commenting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a CLI for the program, modified some functions as well as commenting" />
   </component>
 </project>
